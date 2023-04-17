@@ -14,5 +14,9 @@ generate a urdf
 reference :https://www.youtube.com/watch?v=p9c9KoKjEe0
 reference :https://www.youtube.com/watch?v=OSL-zqw4cXs
 change the urdf CMakeLists.txt file and package.xml you can refer the my CMakeLists.txt file and package.xml, it is noly to modify the project name.
- 
- command "colcon build"
+,,,
+cd your_workspace
+,,,
+,,, 
+"colcon build"
+,,,
