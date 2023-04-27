@@ -4,10 +4,8 @@
 
 
 control the robot arm in the ubuntn 22.04LTS
-
 install the ROS Humble accroding to your computer CPU, ROS Humble just for my case 
-
-reference :https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debians.html
+#reference :https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debians.html
 
 install the movit2 
 
