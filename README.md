@@ -31,7 +31,7 @@ reference :https://www.youtube.com/watch?v=p9c9KoKjEe0
 
 reference :https://www.youtube.com/watch?v=OSL-zqw4cXs
 
-change the urdf CMakeLists.txt file and package.xml you can refer the my CMakeLists.txt file and package.xml, it is noly to modify the project name.
+change the urdf CMakeLists.txt file and package.xml you can refer the my CMakeLists.txt file and package.xml, it is only to modify the project name.
 
 ```
 cd your_workspace
@@ -46,7 +46,7 @@ follow the tutorials to load your urdf file and generate the conflg file
 
 http://docs.ros.org/en/kinetic/api/moveit_tutorials/html/doc/setup_assistant/setup_assistant_tutorial.html
 
-you must to add some part in your conflg file, go to yor conflg launch and select the demo.launc.py add
+you must to add some part in your config file, go to your config launch and select the demo.launc.py add
 ```
 def lunch_setup(context, *args,**kwargs):
     
