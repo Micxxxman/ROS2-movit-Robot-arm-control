@@ -1,10 +1,10 @@
 
 
-# ROS2-movit-Robot-arm-control
+# ROS2-movit Robotic arm control
 
 
-control the robot arm in the ubuntn 22.04LTS
-install the ROS Humble accroding to your computer CPU, ROS Humble just for my case 
+control the robot arm in the ubuntu 22.04LTS
+install the ROS Humble according to your computer CPU, ROS Humble just for my case 
 reference :https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debians.html
 
 
